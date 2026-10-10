@@ -28,23 +28,4 @@ module.exports = {
     
     S7: '@DK_S3', // Owner, Name
     
-    adminId: 'CHAT_ID', // Owner Chat ID ( control /address, /delresell )
-    
-    channel: 'TG_CHANNEL', // TG channel link
-    
-    group: 'GC_LINK', // TG group link
-    
-    youtube: 'YOITUBE_LINK', // YouTube Link
-    
-    waChannel: 'WA_LINK', // WhatsApp Channel Link
-    
-    instagram: 'INSTA_LINK', // Instagram Link 
-    
-    channelId: 'CHANNEL_ID', // channel ID bot must be admin in the channel
-    
-    groupId: 'GROUP_ID', // group ID bot must be admin in the group
-    
-    bot: 'Xeon Bug Bot V27', // Bot name 
-    
-    logo: './SY/Loves.jpg' // Bot logo path or URL
 };
