@@ -24,7 +24,7 @@
  * or termination of the Telegram bot.
  */
 module.exports = {
-    mainToken: 'BOT_TOKEN', // Bot Token Here 
+    mainToken: '8722226793:AAHgSPmwMvPGCYJ-k8phi6VivPbbrowwudQ', // Bot Token Here 
     
     S7: '@SeXyxeon13', // Owner, Name
     
