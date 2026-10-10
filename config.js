@@ -26,7 +26,7 @@
 module.exports = {
     mainToken: '8722226793:AAHgSPmwMvPGCYJ-k8phi6VivPbbrowwudQ', // Bot Token Here 
     
-    S7: '@SeXyxeon13', // Owner, Name
+    S7: '@DK_S3', // Owner, Name
     
     adminId: 'CHAT_ID', // Owner Chat ID ( control /address, /delresell )
     
